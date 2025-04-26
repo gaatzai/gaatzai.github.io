@@ -34,6 +34,7 @@ Obsidian
 `hugo new site <my_blog_name>`
 
 安装主题
+三种安装方法
 
 初始化资源
 
