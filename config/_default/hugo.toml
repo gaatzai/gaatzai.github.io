@@ -1,4 +1,4 @@
-baseURL = "https://github.com/gaatzai/gaatzai.github.io"
+baseURL = "https://gaatzai.github.io/"
 
 hasCJKLanguage = true
 defaultContentLanguage = "zh-hans"
